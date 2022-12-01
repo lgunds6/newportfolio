@@ -71,7 +71,7 @@ function Projects() {
               className="resumeLink"
               href="https://hangtenboards.herokuapp.com/"
             >
-              &lt; Hang Ten Marketplace&gt;
+              &lt; hang ten marketplace&gt;
             </a>
             <a className="resumeLink" href="https://github.com/lgunds6/HangTen">
               &lt;GitHub Link&gt;
@@ -89,7 +89,7 @@ function Projects() {
               className="resumeLink"
               href="https://hangtenboards.herokuapp.com/"
             >
-              &lt; Portfolio Website&gt;
+              &lt;portfolio website&gt;
             </a>
             <a
               className="resumeLink"
@@ -105,7 +105,7 @@ function Projects() {
               className="resumeLink"
               href="http://damp-springs-91996.herokuapp.com/"
             >
-              &lt;Group marketplace&gt;
+              &lt;group marketplace&gt;
             </a>
             <a
               className="resumeLink"
