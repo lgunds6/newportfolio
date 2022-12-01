@@ -91,7 +91,10 @@ function Projects() {
             >
               &lt; Portfolio Website&gt;
             </a>
-            <a className="resumeLink" href="https://github.com/lgunds6/HangTen">
+            <a
+              className="resumeLink"
+              href="https://github.com/lgunds6/newportfolio"
+            >
               &lt;GitHub Link&gt;
             </a>
             <p> My portfolio website is built using react.js</p>
